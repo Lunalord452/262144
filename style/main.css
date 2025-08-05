@@ -633,7 +633,7 @@ hr {
     font-size: 23px; }
     @media screen and (max-width: 480px) {
       .tile.tile-1048576 .tile-inner {
-        font-size: 5px; } }
+        font-size: 4px; } }
 
 @-webkit-keyframes appear {
   0% {
