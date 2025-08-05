@@ -12,7 +12,7 @@ Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
  - [DmitryKuzmenko](https://github.com/DmitryKuzmenko) made a majority of the code
  - [Lunalord452](https://github.com/Lunalord452) made the tile colors from 65536 onwards
 
-Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
+Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44), [ghoullier](https://github.com/ghoullier) and [DmitryKuzmenko](https://github.com/DmitryKuzmenko) for the contributions and for making the code on [Github](https://github.com).
 
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
