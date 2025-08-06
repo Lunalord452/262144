@@ -621,7 +621,7 @@ hr {
    .tile.tile-524288 .tile-inner {
     color: #f9f6f2;
     background: #ffc500;
-    box-shadow: 0 0 30px 10px rgba(255, 136, 0, 0.79556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    box-shadow: 0 0 30px 10px rgba(255, 197, 0, 0.79556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 30px; }
     @media screen and (max-width: 480px) {
       .tile.tile-523288 .tile-inner {
